@@ -2,6 +2,8 @@
 
 Adds keyboard shortcuts to add elements, save work, and other things in [Oxygen](http://oxygenbuilder.com/)'s editor. You will find the shortcuts described below. This should also work for Mac users; replace Ctrl with the Apple icon.
 
+I decided to use Ctrl + Alt because Ctrl alone would have some conflicts. This plugin has only been tested within Google Chrome.
+
 ## Installation ##
 
 1. Click on the `Download ZIP` button at the right to download the plugin.
