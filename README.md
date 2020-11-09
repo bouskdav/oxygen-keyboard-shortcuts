@@ -45,8 +45,13 @@ Ctrl + Alt + E = Add text link
 
 Ctrl + Alt + R = Add link button
 
+Ctrl + Alt + T = Edit inner text (instead of doubleclick)
+
 
 ## Changelog ##
+
+### 1.0.1 - Nov 9, 2020 ###
+* Added Ctrl + Alt + T shortcut
 
 ### 1.0.0 - Nov 13, 2018 ###
 * Initial Release
